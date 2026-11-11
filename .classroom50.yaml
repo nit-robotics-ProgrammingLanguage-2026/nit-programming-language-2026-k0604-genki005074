@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "nit-programming-language-2026"
+assignment: "k0604"
+secret: "nmm2dsr0"
+owner:
+  username: "genki005074"
+  id: 337716325
+  accepted_at: "2026-11-11T06:53:38Z"
+source:
+  owner: "nit-robotics-ProgrammingLanguage-2026"
+  owner_id: 326343566
+  repo: "template-task0604-reverse_loop"
+  branch: "main"
